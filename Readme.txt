@@ -11,3 +11,5 @@ polopolopolo
 lollypop
 
 Add site: Rydhi at git hub.com
+
+Check gitPull = gitmerge + gitfetch
