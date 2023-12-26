@@ -1,4 +1,4 @@
-Welcome to MyGitProject
+Welcome to MyGitProject on GitHub
 
 Author: Rydhi
 
